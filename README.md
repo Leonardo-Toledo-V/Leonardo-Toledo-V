@@ -24,8 +24,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Toledo-V&repo=RickAndMorty-REST-API&theme=radical)](https://github.com/Leonardo-Toledo-V/RickAndMorty-REST-API)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Toledo-V&repo=password-generator&theme=radical)](https://github.com/Leonardo-Toledo-V/password-generator)
-
 
 </div>
 
