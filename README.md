@@ -1,31 +1,14 @@
-#### I'm Leonardo Toledo, a software development engineering student.
-- 🎊 I'm 19 years old.
-- 🦧 I’m currently learning <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/></a>
-- 💻 Reach me at [`twitter.com/leo_td_v`](https://twitter.com/leo_td_v) 
- 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Toledo-V&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Toledo-V&layout=compact&langs_count=7&theme=radical"/>
-</div>
+### I'm Leonardo Toledo, a software development engineering student.
 
+-  Currently studying `TypeScript`, `Tailwind CSS` and `PHP`
+-  Reach me at [`twitter.com/leo_td_v`](https://twitter.com/leo_td_v) 
 
-#### Recent Projects:
-<img src="https://i.postimg.cc/YSL6Fsrv/Rick-And-Morty-PNG-Photos.png" align="right" width="410">
-<div>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Toledo-V&repo=API-Movie&theme=radical)](https://github.com/Leonardo-Toledo-V/API-Movie)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Toledo-V&repo=sign-up-CatsAndCoffe&theme=radical)](https://github.com/Leonardo-Toledo-V/sign-up-CatsAndCoffe)
-
-
-</div>
-
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-Toledo-V&repo=RickAndMorty-REST-API&theme=radical)](https://github.com/Leonardo-Toledo-V/RickAndMorty-REST-API)
-
-
-</div>
-
+##### TECHNOLOGIES
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a> 
+<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> </a> 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
