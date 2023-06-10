@@ -1,15 +1,26 @@
-### I'm Leonardo Toledo, a software development engineering student.
+## I'm Leonardo Toledo, a software development engineering student. 👋.
+<a href="https://www.linkedin.com/in/leonardo-toledo-velazco-ab4510224/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
+<a href="https://twitter.com/leo_td_v"><img src="https://img.shields.io/static/v1?label=&message=TWITTER&logoColor=white&color=1DA1F2&style=for-the-badge&logo=TWITTER"></a>
 
--  Currently studying `Next.js` and `Python`
--  Reach me at [`twitter.com/leo_td_v`](https://twitter.com/leo_td_v) 
+Frontend Developer Attempt
 
-##### TECHNOLOGIES
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="tailwindcss" width="45" height="45"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="typescript" width="45" height="45"/> </a> 
-<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/> </a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> </a> 
+### About me 🦧
+
+-  I'm 19 years old.
+
+- I'm currently studying `Next.js` and `Python`
+
+- I really like learning new things and always being up-to-date with technologies.
+
+- Currently studying at Universidad Politécnica de Chiapas
+
+<br>
+
+---
+### I have used these technologies and tools:
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,tailwind,py,nodejs,mysql,figma)](https://skillicons.dev)
+ 
+---
+
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
