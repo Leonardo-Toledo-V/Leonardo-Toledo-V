@@ -8,7 +8,7 @@ Frontend Developer Attempt
 
 -  I'm 19 years old.
 
-- I'm currently studying `Next.js` and `Python`
+- I'm currently studying `Next.js` and `TypeScript`
 
 - I really like learning new things and always being up-to-date with technologies.
 
@@ -19,7 +19,7 @@ Frontend Developer Attempt
 ---
 ### I have used these technologies and tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,tailwind,py,nodejs,mysql,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,tailwind,vercel,nextjs,figma)](https://skillicons.dev)
  
 ---
 
