@@ -21,6 +21,4 @@ Frontend Developer Attempt
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,tailwind,vercel,nextjs,figma)](https://skillicons.dev)
  
----
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
