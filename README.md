@@ -7,7 +7,7 @@ Frontend and Mobile Developer attempt
 
 ### About me
 
--  I'm 20 years old.
+-  I'm 21 years old.
 
 - I'm currently studying `React Native` and `Expo`.
 
